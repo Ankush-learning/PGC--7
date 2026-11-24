@@ -171,20 +171,14 @@ Profiling the baseline workload on the **NVIDIA GeForce RTX 4050 Laptop GPU** re
 
 ## 8. Command Execution Screenshots
 
-### Step 0: Environment & CUDA Setup Check
-![Setup Check](screenshots/01_setup_check.png)
+### Baseline Workload & Profiler
+![Baseline Run](screenshots/baseline_run.png)
 
-### Step 1: Baseline Workload & Profiler
-![Baseline Run](screenshots/02_baseline_run.png)
+### Optimized Workload & Profiler
+![Optimized Run](screenshots/optimized_run.png)
 
-### Step 4: Optimized Workload & Profiler
-![Optimized Run](screenshots/03_optimized_run.png)
-
-### Step 5: Trace Analyzer Comparison
-![Trace Analyzer](screenshots/04_trace_analyzer.png)
-
-### Optional Experiment: `--reps 1, 3, 8` Scaling
-![Optional Reps](screenshots/05_optional_reps.png)
+### Trace Analyzer Comparison
+![Trace Analyzer](screenshots/trace_analyzer.png)
 
 ---
 
